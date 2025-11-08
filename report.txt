@@ -1,0 +1,6 @@
+============ BOOKBOT ============
+Analyzing book found at {book_path}...
+----------- Word Count ----------
+Found {word_count} total words
+--------- Character Count -------
+{sorted_characters}============= END ===============
